@@ -41,7 +41,11 @@ def game_hash
           number: 1,
           shoe: 19,
           points: 26,
+<<<<<<< HEAD
           rebounds: 11,
+=======
+          rebounds: 12,
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
           assists: 6,
           steals: 3,
           blocks: 8,
@@ -74,13 +78,21 @@ def game_hash
           blocks: 7,
           slam_dunks: 2
         }, {
+<<<<<<< HEAD
           player_name: "Bismack Biyombo",
+=======
+          player_name: "Bismak Biyombo",
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
           number: 0,
           shoe: 16,
           points: 12,
           rebounds: 4,
           assists: 7,
+<<<<<<< HEAD
           steals: 22,
+=======
+          steals: 7,
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
           blocks: 15,
           slam_dunks: 10
         }, {
@@ -104,17 +116,29 @@ def game_hash
           blocks: 1,
           slam_dunks: 0
         }, {
+<<<<<<< HEAD
           player_name: "Kemba Walker",
+=======
+          player_name: "Brendan Haywood",
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
           number: 33,
           shoe: 15,
           points: 6,
           rebounds: 12,
           assists: 12,
+<<<<<<< HEAD
           steals: 7,
+=======
+          steals: 22,
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
           blocks: 5,
           slam_dunks: 12
         }
       ]
     }
   }
+<<<<<<< HEAD
+=======
+  return game_hash
+>>>>>>> 8d4cb3a7bb2a53dc50cc179cb787697e1431bf19
 end
